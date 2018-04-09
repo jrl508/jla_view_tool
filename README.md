@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+JlaViewTool::Renderer.copyright 'Jean Lafontant', 'All rights reserved'
+```
 
 ## Development
 
